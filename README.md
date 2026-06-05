@@ -41,7 +41,7 @@ Screenshots on failure
 
 🔗 Repository:
 
-https://github.com/LumisVal/ui-diploma-qa-guru
+[https://github.com/LumisVal/ui-diploma-qa-guru](https://github.com/LumisVal/ui_diploma_qa_guru)
 
 🔌 API Automation Project
 
