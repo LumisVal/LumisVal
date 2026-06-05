@@ -78,6 +78,8 @@ Allure TestOps
 
 Manual test cases:
 
+https://allure.autotests.cloud/project/5235/test-cases/44788?treeId=0
+
 Skip onboarding
 Search article
 Open article
