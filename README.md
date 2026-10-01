@@ -93,4 +93,4 @@ QA.GURU Automation Engineer
 
 Telegram: @ChAi_s_Lim0nom
 
-Email: leonid.gromov.2016@mai.ru
+Email: leonid.gromov.2016@mail.ru
